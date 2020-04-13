@@ -1,0 +1,9 @@
+{
+  "name": "neo-ts-compile",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@neo-one/cli": "2.5.0"
+  }
+}
