@@ -1,0 +1,55 @@
+{
+  "hash": "0x35b818a8cdf8a4d0d1e265af86611f854b526d27",
+  "entrypoint": "@Jmp",
+  "functions": [
+    {
+      "name": "@Jmp",
+      "parameters": [
+        {
+          "name": "operation",
+          "type": "String"
+        },
+        {
+          "name": "args",
+          "type": "Array"
+        }
+      ],
+      "returntype": "ByteArray"
+    },
+    {
+      "name": "@Dispatcher",
+      "parameters": [
+        {
+          "name": "operation",
+          "type": "String"
+        },
+        {
+          "name": "args",
+          "type": "Array"
+        }
+      ],
+      "returntype": "ByteArray"
+    },
+    {
+      "name": "hello",
+      "parameters": [],
+      "returntype": "Boolean"
+    },
+    {
+      "name": "deploy",
+      "parameters": [],
+      "returntype": "Boolean"
+    }
+  ],
+  "events": [],
+  "metadata": {
+    "title": "HelloWorld",
+    "description": "",
+    "version": "1.0",
+    "author": "",
+    "email": "",
+    "has-storage": true,
+    "has-dynamic-invoke": false,
+    "is-payable": false
+  }
+}
