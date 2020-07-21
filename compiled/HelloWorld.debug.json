@@ -1,0 +1,45 @@
+{
+  "entrypoint": "0",
+  "documents": [
+    "/Users/danielbyrne/neo-ts-compile/contracts/HelloWorld.ts"
+  ],
+  "methods": [
+    {
+      "name": "HelloWorld,@Jmp",
+      "id": "0",
+      "range": "0-2",
+      "params": [
+        "operation,String",
+        "args,Array"
+      ],
+      "return": "",
+      "variables": [],
+      "sequence-points": []
+    },
+    {
+      "name": "HelloWorld,@Dispatcher",
+      "id": "1",
+      "range": "104-1844",
+      "params": [
+        "operation,String",
+        "args,Array"
+      ],
+      "return": "",
+      "variables": [],
+      "sequence-points": []
+    },
+    {
+      "id": "2",
+      "name": "HelloWorld,hello",
+      "range": "3-102",
+      "params": [],
+      "return": "Boolean",
+      "variables": [],
+      "sequence-points": [
+        "3[0]4:0-4:0",
+        "26[0]5:0-5:0"
+      ]
+    }
+  ],
+  "events": []
+}

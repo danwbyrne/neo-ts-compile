@@ -1,0 +1,26 @@
+{
+  "functions": [
+    {
+      "name": "hello",
+      "parameters": [],
+      "returnType": {
+        "type": "Boolean",
+        "optional": false,
+        "forwardedValue": false
+      },
+      "constant": false,
+      "send": false,
+      "sendUnsafe": false,
+      "receive": false,
+      "claim": false
+    },
+    {
+      "name": "deploy",
+      "parameters": [],
+      "returnType": {
+        "type": "Boolean"
+      }
+    }
+  ],
+  "events": []
+}
