@@ -255,14 +255,14 @@
   resolved "https://registry.yarnpkg.com/@ledgerhq/logs/-/logs-4.72.0.tgz#43df23af013ad1135407e5cf33ca6e4c4c7708d5"
   integrity sha512-o+TYF8vBcyySRsb2kqBDv/KMeme8a2nwWoG+lAWzbDmWfb2/MrVWYCVYDYvjXdSoI/Cujqy1i0gIDrkdxa9chA==
 
-"@neo-one/cli-common-node@2.7.0-alpha.8":
-  version "2.7.0-alpha.8"
-  resolved "https://registry.yarnpkg.com/@neo-one/cli-common-node/-/cli-common-node-2.7.0-alpha.8.tgz#c5d1a4097b74e844af036bc0e91cf768ef92511c"
-  integrity sha512-HIUFTH5XV8Y73PcGJ+yi5Bz4ollnazSUAGi9HL0IEoDRmOtoVK8QOLq9OuYpCCpzFg/bTNJp1Ix8wFFkcnrlHQ==
+"@neo-one/cli-common-node@2.7.0-alpha.9":
+  version "2.7.0-alpha.9"
+  resolved "https://registry.yarnpkg.com/@neo-one/cli-common-node/-/cli-common-node-2.7.0-alpha.9.tgz#cb6d8f67b3149342b78c5231710a3e9eacb687d5"
+  integrity sha512-GG1CUBnKfiCc9XCLRYtwJMCcgs51vZN5GGwiL2szOrn0WsrIVLxu8SO4WJ4Sf31VJ3TIfHco+TDBLvt6ZeWYQA==
   dependencies:
-    "@neo-one/cli-common" "2.7.0-alpha.8"
-    "@neo-one/client-core" "2.6.1-alpha.8"
-    "@neo-one/client-full-core" "2.5.1-alpha.8"
+    "@neo-one/cli-common" "2.7.0-alpha.9"
+    "@neo-one/client-core" "2.6.1-alpha.9"
+    "@neo-one/client-full-core" "2.5.1-alpha.9"
     cosmiconfig "^6.0.0"
     fs-extra "^8.1.0"
     lodash "^4.17.15"
@@ -271,41 +271,41 @@
     ts-node "^8.4.1"
     tslib "^1.10.0"
 
-"@neo-one/cli-common@2.7.0-alpha.8":
-  version "2.7.0-alpha.8"
-  resolved "https://registry.yarnpkg.com/@neo-one/cli-common/-/cli-common-2.7.0-alpha.8.tgz#bcde187b2fbc66f649593dc56361155be22254f5"
-  integrity sha512-vgvPWxn0EVwJzscSQcYlEZNoTJc5nXsls2q6sdk+Ryo4AIcq+Y9rRU8jlGyV/LR2WMat801rI/E4qsZdN8G1rg==
+"@neo-one/cli-common@2.7.0-alpha.9":
+  version "2.7.0-alpha.9"
+  resolved "https://registry.yarnpkg.com/@neo-one/cli-common/-/cli-common-2.7.0-alpha.9.tgz#c3ac65bd25b1f21ab603ec296b7083bef65a6717"
+  integrity sha512-WGQ+OQCct74TQKg/DAlDkgpw5qGGug/JDLtKuLBu62UwG6P9dSXCgg4dTQFVmGUDx+1qAm3UicMZ41v6ggF+yw==
   dependencies:
-    "@neo-one/client-common" "2.6.0-alpha.8"
-    "@neo-one/client-core" "2.6.1-alpha.8"
-    "@neo-one/client-full-core" "2.5.1-alpha.8"
+    "@neo-one/client-common" "2.6.0-alpha.9"
+    "@neo-one/client-core" "2.6.1-alpha.9"
+    "@neo-one/client-full-core" "2.5.1-alpha.9"
     "@neo-one/utils" "^2.5.0"
     bignumber.js "^9.0.0"
     tslib "^1.10.0"
 
 "@neo-one/cli@alpha":
-  version "2.7.0-alpha.8"
-  resolved "https://registry.yarnpkg.com/@neo-one/cli/-/cli-2.7.0-alpha.8.tgz#b6b28bd79c5ea0f00668238e5f43ab911a402032"
-  integrity sha512-i+kXk2dWolZDfSmKI8YMLg21T1sXO7qag60RgRM8iWxZsH5n0oL8NSC04L3VVkhhkGQMlGEzny8GsDOY53/FzQ==
+  version "2.7.0-alpha.9"
+  resolved "https://registry.yarnpkg.com/@neo-one/cli/-/cli-2.7.0-alpha.9.tgz#38dc4127d61ef3bf9b5823ef9afb994e2897acf4"
+  integrity sha512-4LAHWZ5WrqGsgjj83sqy5JLFk/hndLJxUEiVr8F1w8TmhlMfg76MWUWLFAtVFyb2sPiDk7/RstXnCF1kjFQAxQ==
   dependencies:
     "@babel/core" "^7.6.2"
     "@babel/register" "^7.5.5"
-    "@neo-one/cli-common" "2.7.0-alpha.8"
-    "@neo-one/cli-common-node" "2.7.0-alpha.8"
-    "@neo-one/client" "2.6.1-alpha.8"
-    "@neo-one/client-common" "2.6.0-alpha.8"
-    "@neo-one/client-core" "2.6.1-alpha.8"
-    "@neo-one/client-full" "2.5.1-alpha.8"
-    "@neo-one/client-full-core" "2.5.1-alpha.8"
-    "@neo-one/client-switch" "2.5.1-alpha.8"
+    "@neo-one/cli-common" "2.7.0-alpha.9"
+    "@neo-one/cli-common-node" "2.7.0-alpha.9"
+    "@neo-one/client" "2.6.1-alpha.9"
+    "@neo-one/client-common" "2.6.0-alpha.9"
+    "@neo-one/client-core" "2.6.1-alpha.9"
+    "@neo-one/client-full" "2.5.1-alpha.9"
+    "@neo-one/client-full-core" "2.5.1-alpha.9"
+    "@neo-one/client-switch" "2.5.1-alpha.9"
     "@neo-one/logger" "^2.5.0"
     "@neo-one/logger-config" "^2.5.0"
-    "@neo-one/node" "2.5.1-alpha.8"
-    "@neo-one/node-core" "2.5.1-alpha.8"
-    "@neo-one/node-neo-settings" "2.5.1-alpha.8"
-    "@neo-one/smart-contract-codegen" "2.5.1-alpha.8"
-    "@neo-one/smart-contract-compiler" "2.6.0-alpha.8"
-    "@neo-one/smart-contract-compiler-node" "2.5.1-alpha.8"
+    "@neo-one/node" "2.5.1-alpha.9"
+    "@neo-one/node-core" "2.5.1-alpha.9"
+    "@neo-one/node-neo-settings" "2.5.1-alpha.9"
+    "@neo-one/smart-contract-codegen" "2.5.1-alpha.9"
+    "@neo-one/smart-contract-compiler" "2.6.0-alpha.9"
+    "@neo-one/smart-contract-compiler-node" "2.5.1-alpha.9"
     "@neo-one/utils" "^2.5.0"
     "@neo-one/utils-node" "^2.5.0"
     bignumber.js "^9.0.0"
@@ -326,10 +326,10 @@
     typescript "3.8.3"
     yargs "^14.2.0"
 
-"@neo-one/client-common@2.6.0-alpha.8":
-  version "2.6.0-alpha.8"
-  resolved "https://registry.yarnpkg.com/@neo-one/client-common/-/client-common-2.6.0-alpha.8.tgz#c974d14bc0e2ed9c71819dc83d315625588bdc3a"
-  integrity sha512-HCZEfBgpURCLO1+EiR4nbXpI/7GcO64rAWbqcIhIrsajawDEdnsr6kde5JpZcpEcQsfwFEIqFqAwQvZdDBjhRA==
+"@neo-one/client-common@2.6.0-alpha.9":
+  version "2.6.0-alpha.9"
+  resolved "https://registry.yarnpkg.com/@neo-one/client-common/-/client-common-2.6.0-alpha.9.tgz#909b57501b0bbdf7ebe3d1807006aed7301fdfae"
+  integrity sha512-aTTRegXaQuQCwuBSnTijyaAxZjuQXuXrAhqNu/FESuQTT7wzw+qtfz1XYUmHNmdWOfUCjpb7IHWubnfIyUBang==
   dependencies:
     "@neo-one/ec-key" "^0.1.0"
     "@neo-one/utils" "^2.5.0"
@@ -347,13 +347,13 @@
     tslib "^1.10.0"
     wif "^2.0.6"
 
-"@neo-one/client-core@2.6.1-alpha.8":
-  version "2.6.1-alpha.8"
-  resolved "https://registry.yarnpkg.com/@neo-one/client-core/-/client-core-2.6.1-alpha.8.tgz#f24706c6ff451d4355e855e1df391f02de4fe7f6"
-  integrity sha512-8gpFa1Y7HTKw6IKoPq+bzl+FQX+FuboFSq0fYsN0VuVIFXgENxgoroAJIGue1/VQaOYchsFesy1ELuIghGAKXQ==
+"@neo-one/client-core@2.6.1-alpha.9":
+  version "2.6.1-alpha.9"
+  resolved "https://registry.yarnpkg.com/@neo-one/client-core/-/client-core-2.6.1-alpha.9.tgz#be8780e95c7fbc66228a1939d4218b04d5e607aa"
+  integrity sha512-IB3HliuNaT8/bXq3XMgPbn5VCR+QkC5AsbHNabMFUpVmyciyaLjce+9ne+/gEV6IWxKyS8ikY0jqWsmyu9RS5Q==
   dependencies:
-    "@neo-one/client-common" "2.6.0-alpha.8"
-    "@neo-one/client-switch" "2.5.1-alpha.8"
+    "@neo-one/client-common" "2.6.0-alpha.9"
+    "@neo-one/client-switch" "2.5.1-alpha.9"
     "@neo-one/utils" "^2.5.0"
     "@reactivex/ix-es2015-cjs" "^2.5.3"
     "@reactivex/ix-esnext-esm" "^2.5.3"
@@ -369,46 +369,46 @@
     tapable "^1.1.3"
     tslib "^1.10.0"
 
-"@neo-one/client-full-common@2.5.1-alpha.8":
-  version "2.5.1-alpha.8"
-  resolved "https://registry.yarnpkg.com/@neo-one/client-full-common/-/client-full-common-2.5.1-alpha.8.tgz#2ea222ab5c6bf513e681ca8f240a54d446438a77"
-  integrity sha512-bwXG8+FEFFE2T8Xqq36pxuAHHlkhxDSItwpU6Z4GEAAZrNNr2Nb9VVzSCLvhcKoWL+h635lyqy5iGDukBuA/kA==
+"@neo-one/client-full-common@2.5.1-alpha.9":
+  version "2.5.1-alpha.9"
+  resolved "https://registry.yarnpkg.com/@neo-one/client-full-common/-/client-full-common-2.5.1-alpha.9.tgz#d1ef7babfdb0dc8c4cccf02f6cfe169b6ca916e7"
+  integrity sha512-a45M167otlHpOT5UT+2U65B0q7ow5doh5AG6ItLw5rewhvfRfwfBcZGoGVIVrx4CZElZ5l8uyGVYuHrHUyRWMQ==
   dependencies:
-    "@neo-one/client-common" "2.6.0-alpha.8"
+    "@neo-one/client-common" "2.6.0-alpha.9"
     "@neo-one/utils" "^2.5.0"
     tslib "^1.10.0"
 
-"@neo-one/client-full-core@2.5.1-alpha.8":
-  version "2.5.1-alpha.8"
-  resolved "https://registry.yarnpkg.com/@neo-one/client-full-core/-/client-full-core-2.5.1-alpha.8.tgz#3f04826d97658b2b275dcf808832b04f1b300451"
-  integrity sha512-gk2JlL/65X0x743XURNmGl2mxKIBQvI2cLcyQdb0oaWli3MKyfb2ekQKMx0piFG1CZAqcY4BYpBb7u93vHFBig==
+"@neo-one/client-full-core@2.5.1-alpha.9":
+  version "2.5.1-alpha.9"
+  resolved "https://registry.yarnpkg.com/@neo-one/client-full-core/-/client-full-core-2.5.1-alpha.9.tgz#1f7d04f73293d50bfc32dadd59975860b426b315"
+  integrity sha512-pfFl51u8XYc3jWo8QnxLtPWvDx+TCBYrDCPhhLuI6+VUTpxq4lSoSv7mYkk2ck2OsnrIoc9KAk59GZrw028EUg==
   dependencies:
-    "@neo-one/client-common" "2.6.0-alpha.8"
-    "@neo-one/client-core" "2.6.1-alpha.8"
-    "@neo-one/client-full-common" "2.5.1-alpha.8"
-    "@neo-one/client-switch" "2.5.1-alpha.8"
+    "@neo-one/client-common" "2.6.0-alpha.9"
+    "@neo-one/client-core" "2.6.1-alpha.9"
+    "@neo-one/client-full-common" "2.5.1-alpha.9"
+    "@neo-one/client-switch" "2.5.1-alpha.9"
     "@neo-one/utils" "^2.5.0"
     bignumber.js "^9.0.0"
     lodash "^4.17.15"
     tslib "^1.10.0"
 
-"@neo-one/client-full@2.5.1-alpha.8":
-  version "2.5.1-alpha.8"
-  resolved "https://registry.yarnpkg.com/@neo-one/client-full/-/client-full-2.5.1-alpha.8.tgz#4367e75c5b4925fde78b9193f9ccb9bde52d9772"
-  integrity sha512-KlJaOuG6V+CK7+plpVuOYFE6KInOs1yS8i1RpuMQC+S2OwgsgQ5NB1ELncgLwDaN+hnedeOoYvkjOfcRWn9mzg==
+"@neo-one/client-full@2.5.1-alpha.9":
+  version "2.5.1-alpha.9"
+  resolved "https://registry.yarnpkg.com/@neo-one/client-full/-/client-full-2.5.1-alpha.9.tgz#ed5f6cb57655fa5a8a880d77df4a5a9830e05338"
+  integrity sha512-EBWscd3bJlOMgD+NpIIpJsGdcU9cbQj5o6W5VW/fVrEWwU0F7wXcFS9zov5yqyQWBzfi/nKMr0FCwfdgk8TvzQ==
   dependencies:
-    "@neo-one/client" "2.6.1-alpha.8"
-    "@neo-one/client-full-core" "2.5.1-alpha.8"
+    "@neo-one/client" "2.6.1-alpha.9"
+    "@neo-one/client-full-core" "2.5.1-alpha.9"
 
-"@neo-one/client-switch@2.5.1-alpha.8":
-  version "2.5.1-alpha.8"
-  resolved "https://registry.yarnpkg.com/@neo-one/client-switch/-/client-switch-2.5.1-alpha.8.tgz#6a53835e12256de72651609a69be4739f9d9eb0b"
-  integrity sha512-IZTP8CAc0WGFaJ24aKfgs/k9DQB0gI9seO4v5aVGL9skXQbzrX2TBZR8gRtoKEi3q1qWvQazopMyBqLSW6OsSA==
+"@neo-one/client-switch@2.5.1-alpha.9":
+  version "2.5.1-alpha.9"
+  resolved "https://registry.yarnpkg.com/@neo-one/client-switch/-/client-switch-2.5.1-alpha.9.tgz#95427ce4b04e1ab64b853d3481075bd7f9cbe15c"
+  integrity sha512-/itR915Zyeh/pAANrrBeDSZUssISLDML2oqaHbCcbg708d6LuPnGLhVdzxzABg/Xnxv6TnZPpVQPrgXxoPg0Fg==
   dependencies:
     "@babel/code-frame" "^7.0.0"
     "@ledgerhq/hw-transport-u2f" "^4.68.2"
-    "@neo-one/client-common" "2.6.0-alpha.8"
-    "@neo-one/node-vm" "2.5.1-alpha.8"
+    "@neo-one/client-common" "2.6.0-alpha.9"
+    "@neo-one/node-vm" "2.5.1-alpha.9"
     "@neo-one/utils" "^2.5.0"
     lodash "^4.17.15"
     regenerator-runtime "^0.13.3"
@@ -417,21 +417,21 @@
   optionalDependencies:
     "@ledgerhq/hw-transport-node-hid" "^4.68.2"
 
-"@neo-one/client@2.6.1-alpha.8":
-  version "2.6.1-alpha.8"
-  resolved "https://registry.yarnpkg.com/@neo-one/client/-/client-2.6.1-alpha.8.tgz#318fed3feb5a338d8890d52723ad7e771f1118a8"
-  integrity sha512-rnpfXlgr/H4oMTWR1KqhxLmwl1DrfHN4lxZX0o1uX3l6Ml5Sao0OV0H4Ilp+8YPwlC0YupuNehW48REwy1BhXw==
+"@neo-one/client@2.6.1-alpha.9":
+  version "2.6.1-alpha.9"
+  resolved "https://registry.yarnpkg.com/@neo-one/client/-/client-2.6.1-alpha.9.tgz#0d278cf347ae783c11c967961cff36f8b9b6c127"
+  integrity sha512-juzfPf9OR4ET+EhqBJmp6fPerxPU6OYRXpxZnwSc5iyZZznqFABTMLWv+4A3sr/94cO55cUy2VbRBhFFd9C8EQ==
   dependencies:
-    "@neo-one/client-common" "2.6.0-alpha.8"
-    "@neo-one/client-core" "2.6.1-alpha.8"
-    "@neo-one/developer-tools" "2.5.1-alpha.8"
+    "@neo-one/client-common" "2.6.0-alpha.9"
+    "@neo-one/client-core" "2.6.1-alpha.9"
+    "@neo-one/developer-tools" "2.5.1-alpha.9"
 
-"@neo-one/developer-tools@2.5.1-alpha.8":
-  version "2.5.1-alpha.8"
-  resolved "https://registry.yarnpkg.com/@neo-one/developer-tools/-/developer-tools-2.5.1-alpha.8.tgz#b0888ec42b7deb8bd3204c201a285013eb8985b6"
-  integrity sha512-hcE1cG/RuyVwtKu2BGI+Mnb7fGd8FzY3nJyDGsyrpjSS7GsbXqKDAgoTbRBXxomCMIxZ6g2oflRcmoylHhVKPg==
+"@neo-one/developer-tools@2.5.1-alpha.9":
+  version "2.5.1-alpha.9"
+  resolved "https://registry.yarnpkg.com/@neo-one/developer-tools/-/developer-tools-2.5.1-alpha.9.tgz#29144f4dcccb76d37b8d3508cd89d1839a63415f"
+  integrity sha512-FO8u8WTPq9TvSt3Ayz6VHMu3iwtNZ09lYlkSzuneTxwuzEaZcPOI8BD2w7RtFcpf+MhVu6EZtwlDIHlIXtVsQw==
   dependencies:
-    "@neo-one/client-core" "2.6.1-alpha.8"
+    "@neo-one/client-core" "2.6.1-alpha.9"
     resize-observer-polyfill "^1.5.0"
     tslib "^1.10.0"
 
@@ -442,12 +442,12 @@
   dependencies:
     asn1.js "^1.0.4"
 
-"@neo-one/http-context@2.5.1-alpha.8":
-  version "2.5.1-alpha.8"
-  resolved "https://registry.yarnpkg.com/@neo-one/http-context/-/http-context-2.5.1-alpha.8.tgz#f8fc330e0a801c7d4701bcc5d3a3fdc3a4b6dd6a"
-  integrity sha512-4q0RFjHRjcXMxqDjeN2HwkMlVSAGGUcy7CRrCoIybYzoYliP83nRNpyxysQ7FZOMcg2LoCHe4yz80LzSVqa4Pg==
+"@neo-one/http-context@2.5.1-alpha.9":
+  version "2.5.1-alpha.9"
+  resolved "https://registry.yarnpkg.com/@neo-one/http-context/-/http-context-2.5.1-alpha.9.tgz#04581dfd586d543d89ed58c81c2b030635cadf36"
+  integrity sha512-327nHp9DVqpxRYoSo9WVlpPP36I4Q4rteBl982A2p0C/sPwLMJThAnj59I+hMEQ3q4p4SvumOYFnaubGLbZ5gQ==
   dependencies:
-    "@neo-one/client-switch" "2.5.1-alpha.8"
+    "@neo-one/client-switch" "2.5.1-alpha.9"
     "@neo-one/logger" "^2.5.0"
     "@neo-one/utils" "^2.5.0"
     "@types/koa" "^2.0.49"
@@ -486,15 +486,15 @@
     pino-pretty "^3.2.1"
     tslib "^1.10.0"
 
-"@neo-one/node-blockchain@2.5.1-alpha.8":
-  version "2.5.1-alpha.8"
-  resolved "https://registry.yarnpkg.com/@neo-one/node-blockchain/-/node-blockchain-2.5.1-alpha.8.tgz#51706ccb1866296c400236edb1e0a828848b47a2"
-  integrity sha512-C5wEJvByoxvKwZyHvuo8ABS8OSEaPjodk8VeJTFcxgnNbuAuI7ns0dLg4K3pZqSGZzo46XRxoi728u5z/asuvA==
+"@neo-one/node-blockchain@2.5.1-alpha.9":
+  version "2.5.1-alpha.9"
+  resolved "https://registry.yarnpkg.com/@neo-one/node-blockchain/-/node-blockchain-2.5.1-alpha.9.tgz#80917387cc83da7055427f603c966326dae9fbd1"
+  integrity sha512-IxBarnUIdU/JEdIQwnFJYLlg9QF3Wr2ivxrj9p7hYasjj9ZQ/ruEFm3EywFdag53TuBQPXKChpzDnNIsQWBpkQ==
   dependencies:
-    "@neo-one/client-common" "2.6.0-alpha.8"
-    "@neo-one/client-switch" "2.5.1-alpha.8"
+    "@neo-one/client-common" "2.6.0-alpha.9"
+    "@neo-one/client-switch" "2.5.1-alpha.9"
     "@neo-one/logger" "^2.5.0"
-    "@neo-one/node-core" "2.5.1-alpha.8"
+    "@neo-one/node-core" "2.5.1-alpha.9"
     "@neo-one/utils" "^2.5.0"
     bn.js "^5.0.0"
     js-priority-queue "^0.1.5"
@@ -502,14 +502,14 @@
     rxjs "^6.5.3"
     tslib "^1.10.0"
 
-"@neo-one/node-consensus@2.5.1-alpha.8":
-  version "2.5.1-alpha.8"
-  resolved "https://registry.yarnpkg.com/@neo-one/node-consensus/-/node-consensus-2.5.1-alpha.8.tgz#8031ef40d80d810eaa753ee1d185e0097c4840fb"
-  integrity sha512-Nu442HQ/6HLPxDtAYSdrTMRqRzNgGwvtPw+sH7WU85naEMc5sDTGt4aDP/eKSTKmKXffLfBs/D1B66YWNEPGFQ==
+"@neo-one/node-consensus@2.5.1-alpha.9":
+  version "2.5.1-alpha.9"
+  resolved "https://registry.yarnpkg.com/@neo-one/node-consensus/-/node-consensus-2.5.1-alpha.9.tgz#6be614510ee6ba586587b76cefbcac7a2f7729d3"
+  integrity sha512-KWYfgKTZND1nHIqS+Tvyt13vl97OcZCSsPp1CV9LaKgHupaSsguoqSw/M5rW8OX0IkmVbSEWAF89jtApO2oW7A==
   dependencies:
-    "@neo-one/client-common" "2.6.0-alpha.8"
+    "@neo-one/client-common" "2.6.0-alpha.9"
     "@neo-one/logger" "^2.5.0"
-    "@neo-one/node-core" "2.5.1-alpha.8"
+    "@neo-one/node-core" "2.5.1-alpha.9"
     "@neo-one/utils" "^2.5.0"
     "@reactivex/ix-es2015-cjs" "^2.5.3"
     "@reactivex/ix-esnext-esm" "^2.5.3"
@@ -518,13 +518,13 @@
     lodash "^4.17.15"
     tslib "^1.10.0"
 
-"@neo-one/node-core@2.5.1-alpha.8":
-  version "2.5.1-alpha.8"
-  resolved "https://registry.yarnpkg.com/@neo-one/node-core/-/node-core-2.5.1-alpha.8.tgz#9de0008ce823de5950d14d030bd8904858f33175"
-  integrity sha512-MLnXLnroXgxLUKAKVVZfM9E2+t75e2q9w89XrZecxBXTN1eZzGkBjPBCvxhqwtwLoW5jnUCn0ig/k0pc4zcI+A==
+"@neo-one/node-core@2.5.1-alpha.9":
+  version "2.5.1-alpha.9"
+  resolved "https://registry.yarnpkg.com/@neo-one/node-core/-/node-core-2.5.1-alpha.9.tgz#df2d5c08f1efa939f8613888a95aa6f1cda9be62"
+  integrity sha512-/7ljQQ2Vfhuv3JeMpfLI/UUUg9c/GqxUfDmfhg1wQ1c3pqs4l5FQ7HtnKR4E/BGMeIK9zP+3idU/1Gd+Tq258A==
   dependencies:
-    "@neo-one/client-common" "2.6.0-alpha.8"
-    "@neo-one/client-full-common" "2.5.1-alpha.8"
+    "@neo-one/client-common" "2.6.0-alpha.9"
+    "@neo-one/client-full-common" "2.5.1-alpha.9"
     "@neo-one/utils" "^2.5.0"
     bignumber.js "^9.0.0"
     bn.js "^5.0.0"
@@ -533,17 +533,17 @@
     through "^2.3.8"
     tslib "^1.10.0"
 
-"@neo-one/node-http-rpc@2.5.1-alpha.8":
-  version "2.5.1-alpha.8"
-  resolved "https://registry.yarnpkg.com/@neo-one/node-http-rpc/-/node-http-rpc-2.5.1-alpha.8.tgz#2f06522a97ee589dac3137d87997511069fcb735"
-  integrity sha512-mCtf8YuUe32A+7zgQ/pTCXBdmMMtadswGAeP1wmCnPSwB33jje6XUtdcTYWqxeC0Hiis0/QWsXJDEwojnukOjA==
+"@neo-one/node-http-rpc@2.5.1-alpha.9":
+  version "2.5.1-alpha.9"
+  resolved "https://registry.yarnpkg.com/@neo-one/node-http-rpc/-/node-http-rpc-2.5.1-alpha.9.tgz#c6870b41f7b8b929930508fd382fd8b251c09084"
+  integrity sha512-pBqkrRp+uf/7wkk5AKfRerBZ5PDpXA6v5+b2AvjwRrKjyEMLHQIuR+tFb42H9FZHpZewqZoYjXpyLNyWJvSRRg==
   dependencies:
-    "@neo-one/cli-common-node" "2.7.0-alpha.8"
+    "@neo-one/cli-common-node" "2.7.0-alpha.9"
     "@neo-one/http" "^2.5.0"
-    "@neo-one/http-context" "2.5.1-alpha.8"
+    "@neo-one/http-context" "2.5.1-alpha.9"
     "@neo-one/logger" "^2.5.0"
-    "@neo-one/node-core" "2.5.1-alpha.8"
-    "@neo-one/node-rpc-handler" "2.5.1-alpha.8"
+    "@neo-one/node-core" "2.5.1-alpha.9"
+    "@neo-one/node-rpc-handler" "2.5.1-alpha.9"
     "@neo-one/utils" "^2.5.0"
     cross-fetch "^3.0.4"
     execa "^3.2.0"
@@ -555,51 +555,51 @@
     lodash "^4.17.15"
     tslib "^1.10.0"
 
-"@neo-one/node-neo-settings@2.5.1-alpha.8":
-  version "2.5.1-alpha.8"
-  resolved "https://registry.yarnpkg.com/@neo-one/node-neo-settings/-/node-neo-settings-2.5.1-alpha.8.tgz#054bc49242bc36d531ebafe813350d7950a0606b"
-  integrity sha512-r/jsZpj/WW1IZg5m9OWJmu/rBDM79B/6s2rOKsAHI+TQG0ZeEYjKo+YzuBYWOBIw7NVPs0e4o2UikfO50f05dA==
+"@neo-one/node-neo-settings@2.5.1-alpha.9":
+  version "2.5.1-alpha.9"
+  resolved "https://registry.yarnpkg.com/@neo-one/node-neo-settings/-/node-neo-settings-2.5.1-alpha.9.tgz#1bb2d5d0f6235d6c273f263aafeb6b6db01c550e"
+  integrity sha512-fMC3v/lOctESk9sHEIo+xXJj5aTbC6P/GhhIx/ap6Ryx02kRBIZDE8QLPj5wQQDMXKpn6mkHoQLxDTEgqrrXQA==
   dependencies:
-    "@neo-one/client-common" "2.6.0-alpha.8"
-    "@neo-one/node-core" "2.5.1-alpha.8"
+    "@neo-one/client-common" "2.6.0-alpha.9"
+    "@neo-one/node-core" "2.5.1-alpha.9"
     "@neo-one/utils" "^2.5.0"
     bn.js "^5.0.0"
     lodash "^4.17.15"
     tslib "^1.10.0"
 
-"@neo-one/node-network@2.5.1-alpha.8":
-  version "2.5.1-alpha.8"
-  resolved "https://registry.yarnpkg.com/@neo-one/node-network/-/node-network-2.5.1-alpha.8.tgz#0667376473d3f5a5b9931d4129b1b9b9bc34d428"
-  integrity sha512-fBMjDnEYcZYmGSWFLEA0oN9enI6pnu08TEJNERbqEqSlABRghlKN0CC50x3OzOe33rrDQyNmWJfuqb2iP9Pz0A==
+"@neo-one/node-network@2.5.1-alpha.9":
+  version "2.5.1-alpha.9"
+  resolved "https://registry.yarnpkg.com/@neo-one/node-network/-/node-network-2.5.1-alpha.9.tgz#40e6faa3d07fcce30e7081c30ab2417c7f7c8db8"
+  integrity sha512-mGpB4Xdq+jQBSS8AGPDY+HiWS09W17TKA5ouT8yJR74FMsF/jmoGwztHkyCRgUD5SGXdTgusOxj7Pr33wMwxew==
   dependencies:
-    "@neo-one/client-switch" "2.5.1-alpha.8"
+    "@neo-one/client-switch" "2.5.1-alpha.9"
     "@neo-one/logger" "^2.5.0"
-    "@neo-one/node-core" "2.5.1-alpha.8"
+    "@neo-one/node-core" "2.5.1-alpha.9"
     "@neo-one/utils" "^2.5.0"
     lodash "^4.17.15"
     tslib "^1.10.0"
 
-"@neo-one/node-offline@2.5.1-alpha.8":
-  version "2.5.1-alpha.8"
-  resolved "https://registry.yarnpkg.com/@neo-one/node-offline/-/node-offline-2.5.1-alpha.8.tgz#48fada5a4ca8bf97d13ac495ff008559432716f4"
-  integrity sha512-ylGPNRQjlebCPUhvNteRGIzVqf8/imi2FWA9ArYvTzhMbyuIsoq9sb91zVsB96t1vWvXQ3z/fDxVCt6H4Wc3vA==
+"@neo-one/node-offline@2.5.1-alpha.9":
+  version "2.5.1-alpha.9"
+  resolved "https://registry.yarnpkg.com/@neo-one/node-offline/-/node-offline-2.5.1-alpha.9.tgz#07bb0d5660cdb837001555705946e3a6d1dfec9d"
+  integrity sha512-haCKDBeAFvPdY5I1iqgrKOeaYnr07vo2VlV+POjit3jH2b1J2pOm+vsO4eC5vCWvVff/kHslL78tsYbBpuY7Bg==
   dependencies:
     "@neo-one/logger" "^2.5.0"
-    "@neo-one/node-core" "2.5.1-alpha.8"
+    "@neo-one/node-core" "2.5.1-alpha.9"
     "@neo-one/utils" "^2.5.0"
     lodash "^4.17.15"
     tslib "^1.10.0"
 
-"@neo-one/node-protocol@2.5.1-alpha.8":
-  version "2.5.1-alpha.8"
-  resolved "https://registry.yarnpkg.com/@neo-one/node-protocol/-/node-protocol-2.5.1-alpha.8.tgz#1db6658543aaefb34e401e8561dcbbaaddabb4bb"
-  integrity sha512-crSOpRqMv59EXiqJx3x+fMZ4FgeEDN5Org/WkF1im2N2ZqEW6BbhUhggCWvFavocXu5AUSAZqWs9tUQcbZtpSA==
+"@neo-one/node-protocol@2.5.1-alpha.9":
+  version "2.5.1-alpha.9"
+  resolved "https://registry.yarnpkg.com/@neo-one/node-protocol/-/node-protocol-2.5.1-alpha.9.tgz#3765ba57597016297abd6c8f3563296f08331f35"
+  integrity sha512-PLjRjnBRwllYbMg5WT+htaU7LkLzqZDAj8Afh2wBw9Ux2n4KKh6s+GXUqv4/EtPZ+7hEwuuj64UoGZsb09MN2Q==
   dependencies:
-    "@neo-one/client-common" "2.6.0-alpha.8"
-    "@neo-one/client-switch" "2.5.1-alpha.8"
+    "@neo-one/client-common" "2.6.0-alpha.9"
+    "@neo-one/client-switch" "2.5.1-alpha.9"
     "@neo-one/logger" "^2.5.0"
-    "@neo-one/node-consensus" "2.5.1-alpha.8"
-    "@neo-one/node-core" "2.5.1-alpha.8"
+    "@neo-one/node-consensus" "2.5.1-alpha.9"
+    "@neo-one/node-core" "2.5.1-alpha.9"
     "@neo-one/utils" "^2.5.0"
     bloem "^0.2.4"
     bloom-filter "^0.2.0"
@@ -610,51 +610,51 @@
     lru-cache "^5.0.0"
     tslib "^1.10.0"
 
-"@neo-one/node-rpc-handler@2.5.1-alpha.8":
-  version "2.5.1-alpha.8"
-  resolved "https://registry.yarnpkg.com/@neo-one/node-rpc-handler/-/node-rpc-handler-2.5.1-alpha.8.tgz#79990984f8546656a12e11b106e516c705216463"
-  integrity sha512-RkbcWq3Mlj93+D2KvLdqWUjJ05tdMJ3NVgpcgz4sseY49en9oKfBsSEs1MO2WyRk+xfp2tHQdFnRDr10ZHGd2g==
+"@neo-one/node-rpc-handler@2.5.1-alpha.9":
+  version "2.5.1-alpha.9"
+  resolved "https://registry.yarnpkg.com/@neo-one/node-rpc-handler/-/node-rpc-handler-2.5.1-alpha.9.tgz#00a34a36fa810969d890ab400fa593bb2a35d12a"
+  integrity sha512-IPL5Ee91wgf3uiYGrvHjAlc0c5VuzrStT6dqdm6kCorhgp+nvb+M4o4v6VmNGCp+7wZKBLR5IgVIdQr/7N9TZA==
   dependencies:
-    "@neo-one/client-common" "2.6.0-alpha.8"
-    "@neo-one/client-switch" "2.5.1-alpha.8"
+    "@neo-one/client-common" "2.6.0-alpha.9"
+    "@neo-one/client-switch" "2.5.1-alpha.9"
     "@neo-one/logger" "^2.5.0"
-    "@neo-one/node-core" "2.5.1-alpha.8"
+    "@neo-one/node-core" "2.5.1-alpha.9"
     "@neo-one/utils" "^2.5.0"
     rxjs "^6.5.3"
     tslib "^1.10.0"
 
-"@neo-one/node-storage-common@2.5.1-alpha.8":
-  version "2.5.1-alpha.8"
-  resolved "https://registry.yarnpkg.com/@neo-one/node-storage-common/-/node-storage-common-2.5.1-alpha.8.tgz#bda9e634514eb6d04cb4ac3285e3b573d27a68fe"
-  integrity sha512-E6zH/+0BKDpP7Ont5Jt0BohGX/p1kzVB7PR4fhEtb9NTl1BsQkjfqBPCsQYXE9HlNs43LaJH8K5phvKWCxkWbA==
+"@neo-one/node-storage-common@2.5.1-alpha.9":
+  version "2.5.1-alpha.9"
+  resolved "https://registry.yarnpkg.com/@neo-one/node-storage-common/-/node-storage-common-2.5.1-alpha.9.tgz#c012397a3f3da0ee732aa6fa5fbca9f4c12bb044"
+  integrity sha512-AA8AOT0SFOc0U4r41wUhRwQrJ4n/0ayUvMiL48jijSyRd4VXe+eAMXFyC6g9ThsHxmqD0Z0xxvryM0eOmekwxw==
   dependencies:
-    "@neo-one/client-common" "2.6.0-alpha.8"
-    "@neo-one/node-core" "2.5.1-alpha.8"
+    "@neo-one/client-common" "2.6.0-alpha.9"
+    "@neo-one/node-core" "2.5.1-alpha.9"
     "@neo-one/utils" "^2.5.0"
     tslib "^1.10.0"
 
-"@neo-one/node-storage-levelup@2.5.1-alpha.8":
-  version "2.5.1-alpha.8"
-  resolved "https://registry.yarnpkg.com/@neo-one/node-storage-levelup/-/node-storage-levelup-2.5.1-alpha.8.tgz#0a89fd587565b83551ee63f76dd5654bb3c3b129"
-  integrity sha512-RCOYHkZKOt6phBRUC0S2xX488j52bf2fc/SF164JYMSE2d19yzMFU8gtlgcqKCEoRHMvbnR2MVVQlQZ3MMUTog==
+"@neo-one/node-storage-levelup@2.5.1-alpha.9":
+  version "2.5.1-alpha.9"
+  resolved "https://registry.yarnpkg.com/@neo-one/node-storage-levelup/-/node-storage-levelup-2.5.1-alpha.9.tgz#ffd65400ae775fc231940da1eefeaab69cd67bb2"
+  integrity sha512-1h2nmdMbyDARNjOnuYgvt6PDDfHpEUFpUwNqQXfJe+aXh9DRJleGfWzoBb9oxjyibIGIzeA6GyL+Dj3foqVSSQ==
   dependencies:
-    "@neo-one/client-common" "2.6.0-alpha.8"
-    "@neo-one/node-core" "2.5.1-alpha.8"
-    "@neo-one/node-storage-common" "2.5.1-alpha.8"
+    "@neo-one/client-common" "2.6.0-alpha.9"
+    "@neo-one/node-core" "2.5.1-alpha.9"
+    "@neo-one/node-storage-common" "2.5.1-alpha.9"
     "@neo-one/utils" "^2.5.0"
     "@types/levelup" "^3.1.1"
     levelup "^4.1.0"
     rxjs "^6.5.3"
     tslib "^1.10.0"
 
-"@neo-one/node-vm@2.5.1-alpha.8":
-  version "2.5.1-alpha.8"
-  resolved "https://registry.yarnpkg.com/@neo-one/node-vm/-/node-vm-2.5.1-alpha.8.tgz#3ec558efcda6b75bed29b0f2a792ae6cb8e90d49"
-  integrity sha512-JgMYqRDH64u8IShayk1r/Y3Wtsx2hbf1Okx8SZU0Hx612X4EVw4JlPK8QB8tYgHQRUU9mQtY/boZZQ96uq1DdQ==
+"@neo-one/node-vm@2.5.1-alpha.9":
+  version "2.5.1-alpha.9"
+  resolved "https://registry.yarnpkg.com/@neo-one/node-vm/-/node-vm-2.5.1-alpha.9.tgz#875fb9bc839dc0159c67fb2bd768e5851a062400"
+  integrity sha512-bC9BE27CFLSalMxA9xa38s2xBrlNwnRtV5F/GEhnIrwp+J/AS/Mvw64j7siqMvTvG5MFzJP+VaV7gqzuqmewxg==
   dependencies:
-    "@neo-one/client-common" "2.6.0-alpha.8"
-    "@neo-one/client-full-common" "2.5.1-alpha.8"
-    "@neo-one/node-core" "2.5.1-alpha.8"
+    "@neo-one/client-common" "2.6.0-alpha.9"
+    "@neo-one/client-full-common" "2.5.1-alpha.9"
+    "@neo-one/node-core" "2.5.1-alpha.9"
     "@neo-one/utils" "^2.5.0"
     "@reactivex/ix-es2015-cjs" "^2.5.3"
     "@reactivex/ix-esnext-esm" "^2.5.3"
@@ -664,21 +664,21 @@
     rxjs "^6.5.3"
     tslib "^1.10.0"
 
-"@neo-one/node@2.5.1-alpha.8":
-  version "2.5.1-alpha.8"
-  resolved "https://registry.yarnpkg.com/@neo-one/node/-/node-2.5.1-alpha.8.tgz#520761e1152b6c89d3c77c75425288f45d3da57d"
-  integrity sha512-H9kJ8l1ImRgBP5/6A3jV1ocga5aordSyovILdGonlTBmXvdSsbSJRE6GHjh9kQGGxY/TzTk8r0NYbfXIRB+t1A==
+"@neo-one/node@2.5.1-alpha.9":
+  version "2.5.1-alpha.9"
+  resolved "https://registry.yarnpkg.com/@neo-one/node/-/node-2.5.1-alpha.9.tgz#fcb285ead8df430ec3d76e72a28038b690cf5de5"
+  integrity sha512-OUAg4wAOBUjDzviow2FOtHnpzdEKmdQelaT7NXAaTRLT4nuB0l2RHgCQ/afayukyS91LoJCuob5HQZNE1qtPzA==
   dependencies:
-    "@neo-one/client-switch" "2.5.1-alpha.8"
+    "@neo-one/client-switch" "2.5.1-alpha.9"
     "@neo-one/logger" "^2.5.0"
-    "@neo-one/node-blockchain" "2.5.1-alpha.8"
-    "@neo-one/node-core" "2.5.1-alpha.8"
-    "@neo-one/node-http-rpc" "2.5.1-alpha.8"
-    "@neo-one/node-network" "2.5.1-alpha.8"
-    "@neo-one/node-offline" "2.5.1-alpha.8"
-    "@neo-one/node-protocol" "2.5.1-alpha.8"
-    "@neo-one/node-storage-levelup" "2.5.1-alpha.8"
-    "@neo-one/node-vm" "2.5.1-alpha.8"
+    "@neo-one/node-blockchain" "2.5.1-alpha.9"
+    "@neo-one/node-core" "2.5.1-alpha.9"
+    "@neo-one/node-http-rpc" "2.5.1-alpha.9"
+    "@neo-one/node-network" "2.5.1-alpha.9"
+    "@neo-one/node-offline" "2.5.1-alpha.9"
+    "@neo-one/node-protocol" "2.5.1-alpha.9"
+    "@neo-one/node-storage-levelup" "2.5.1-alpha.9"
+    "@neo-one/node-vm" "2.5.1-alpha.9"
     "@neo-one/utils" "^2.5.0"
     abstract-leveldown "^6.0.3"
     fs-extra "^8.1.0"
@@ -686,14 +686,14 @@
     levelup "^4.1.0"
     tslib "^1.10.0"
 
-"@neo-one/smart-contract-codegen@2.5.1-alpha.8":
-  version "2.5.1-alpha.8"
-  resolved "https://registry.yarnpkg.com/@neo-one/smart-contract-codegen/-/smart-contract-codegen-2.5.1-alpha.8.tgz#d8ba33d821ad6a2babc2ba7b87c15f77a16d4bdf"
-  integrity sha512-g0pBY8IfYnWV5OqG+YRcjyxedozs+mDAFmimAEq45hexUyWO1om+8shnYdfHzAQzZzuuNbHM3tEzVAQWKkHzpQ==
+"@neo-one/smart-contract-codegen@2.5.1-alpha.9":
+  version "2.5.1-alpha.9"
+  resolved "https://registry.yarnpkg.com/@neo-one/smart-contract-codegen/-/smart-contract-codegen-2.5.1-alpha.9.tgz#1f0f714f51ff49601baad43d7b701f29f66def7e"
+  integrity sha512-VLQGH2GaUOvyGrdQz3AQc17KlkVVAUnVlISpDqy0jAI4arA+ap5Tv6Q9YD2TMIfs9CivNpWU9PuZq6CNP0yMAQ==
   dependencies:
-    "@neo-one/cli-common" "2.7.0-alpha.8"
-    "@neo-one/client-common" "2.6.0-alpha.8"
-    "@neo-one/client-core" "2.6.1-alpha.8"
+    "@neo-one/cli-common" "2.7.0-alpha.9"
+    "@neo-one/client-common" "2.6.0-alpha.9"
+    "@neo-one/client-core" "2.6.1-alpha.9"
     "@neo-one/utils" "^2.5.0"
     lodash "^4.17.15"
     prettier "^2.0.1"
@@ -701,32 +701,32 @@
     source-map "^0.7.3"
     tslib "^1.10.0"
 
-"@neo-one/smart-contract-compiler-node@2.5.1-alpha.8":
-  version "2.5.1-alpha.8"
-  resolved "https://registry.yarnpkg.com/@neo-one/smart-contract-compiler-node/-/smart-contract-compiler-node-2.5.1-alpha.8.tgz#3208e573d8a2ec7f7b693fecc68da9f89a7c56f4"
-  integrity sha512-Qlmtd77wQHJd+UIq4K98R8CC03YXqkCp2Nw7jklWe/uzwHM2Zni0ldJASTkLn+tMw8ZTn4yKX8Dn7K3q0d0fPQ==
+"@neo-one/smart-contract-compiler-node@2.5.1-alpha.9":
+  version "2.5.1-alpha.9"
+  resolved "https://registry.yarnpkg.com/@neo-one/smart-contract-compiler-node/-/smart-contract-compiler-node-2.5.1-alpha.9.tgz#71c0460c4f93c4b36d2b67cf5abda3c32a36035a"
+  integrity sha512-TdaBCImeAyY37dWDHIPN8VdetvRhCA+4tCUAR7qPqde9UmkPG1KXwlbCN8gGLKV8GwJ/AO3jS28yKrI6J2AMZQ==
   dependencies:
     "@neo-one/smart-contract" "^2.5.0"
-    "@neo-one/smart-contract-lib" "2.5.1-alpha.8"
+    "@neo-one/smart-contract-lib" "2.5.1-alpha.9"
     "@neo-one/utils" "^2.5.0"
     app-root-dir "^1.0.2"
     glob "^7.1.4"
     tslib "^1.10.0"
     typescript "3.8.3"
 
-"@neo-one/smart-contract-compiler@2.6.0-alpha.8":
-  version "2.6.0-alpha.8"
-  resolved "https://registry.yarnpkg.com/@neo-one/smart-contract-compiler/-/smart-contract-compiler-2.6.0-alpha.8.tgz#7c065fc7e5519413d7a9471a9907589ccf4e0c70"
-  integrity sha512-XqYXQDZZextuVj/XeJ5viHI/m4WSmRYNL0ljUSmI0qvWl+Dcgsa4w1VXRUr8s3/5kORSNEkUW/nq6VRN564EFg==
+"@neo-one/smart-contract-compiler@2.6.0-alpha.9":
+  version "2.6.0-alpha.9"
+  resolved "https://registry.yarnpkg.com/@neo-one/smart-contract-compiler/-/smart-contract-compiler-2.6.0-alpha.9.tgz#fe180415ff407c8d955054ccaac722f629210d8d"
+  integrity sha512-8C/JsQj+CIaaLbHJewjUftESaiSi+EO53318Kr0RdnW7dXUoBXPwM5CMB8Y1aM8Ay0Xhhk/zrukwsllSx6KCdA==
   dependencies:
     "@babel/code-frame" "^7.0.0"
-    "@neo-one/client-common" "2.6.0-alpha.8"
-    "@neo-one/client-core" "2.6.1-alpha.8"
-    "@neo-one/client-full-common" "2.5.1-alpha.8"
-    "@neo-one/client-full-core" "2.5.1-alpha.8"
+    "@neo-one/client-common" "2.6.0-alpha.9"
+    "@neo-one/client-core" "2.6.1-alpha.9"
+    "@neo-one/client-full-common" "2.5.1-alpha.9"
+    "@neo-one/client-full-core" "2.5.1-alpha.9"
     "@neo-one/smart-contract" "^2.5.0"
     "@neo-one/ts-utils" "^2.5.0"
-    "@neo-one/typescript-concatenator" "2.5.1-alpha.8"
+    "@neo-one/typescript-concatenator" "2.5.1-alpha.9"
     "@neo-one/utils" "^2.5.0"
     bn.js "^5.0.0"
     lodash "^4.17.15"
@@ -735,10 +735,10 @@
     tslib "^1.10.0"
     typescript "3.8.3"
 
-"@neo-one/smart-contract-lib@2.5.1-alpha.8":
-  version "2.5.1-alpha.8"
-  resolved "https://registry.yarnpkg.com/@neo-one/smart-contract-lib/-/smart-contract-lib-2.5.1-alpha.8.tgz#98954940864d11bc6d2ba9ea1420e9e0c78e5586"
-  integrity sha512-JrqrKBYydEnSwo6fUBffta1NVdMkXNgC1yqyKWIcecibOWyrIAKJVHThm+gOnqAw0FmNPAiJSwIbiycbF6Gm5Q==
+"@neo-one/smart-contract-lib@2.5.1-alpha.9":
+  version "2.5.1-alpha.9"
+  resolved "https://registry.yarnpkg.com/@neo-one/smart-contract-lib/-/smart-contract-lib-2.5.1-alpha.9.tgz#111874cfbc3711acb78d9d74f9aefa2ec8b3bf0a"
+  integrity sha512-zwvwp+m734vdcCoaiwXXBoK7rEY6u2oTF/jV31I8uZiZB8jYKKyrzV7YJvqmKf7gIjS4/XYo8dXyIlk54uDAPA==
   dependencies:
     "@neo-one/smart-contract" "^2.5.0"
 
@@ -762,10 +762,10 @@
     tslib "^1.10.0"
     typescript "3.8.3"
 
-"@neo-one/typescript-concatenator@2.5.1-alpha.8":
-  version "2.5.1-alpha.8"
-  resolved "https://registry.yarnpkg.com/@neo-one/typescript-concatenator/-/typescript-concatenator-2.5.1-alpha.8.tgz#854ea404d8123d7092f086a93457c7d65db23f21"
-  integrity sha512-z5k/a1Wexzs6FVX11oxVQO7LKDCshYJhtJJcv5I5yUVOE6QtoleHBWHwA4pXXIzjvcOVm7WRsT6QQt76b6YRGQ==
+"@neo-one/typescript-concatenator@2.5.1-alpha.9":
+  version "2.5.1-alpha.9"
+  resolved "https://registry.yarnpkg.com/@neo-one/typescript-concatenator/-/typescript-concatenator-2.5.1-alpha.9.tgz#d2b15f3441a85e2a5c8a35525fbe32b963f4c045"
+  integrity sha512-6NCkJp5WqB0bx1xIqOiapjw6tIvG93EjWuFbaNg9amFRSFnToojra/l+gHb/7/6HR8u8M4AFpSlAFyb2tPy8eg==
   dependencies:
     "@neo-one/ts-utils" "^2.5.0"
     "@neo-one/utils" "^2.5.0"
